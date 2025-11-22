@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+pyarrow
+tqdm
+joblib
+xgboost
+optuna
+category-encoders
+lightgbm
+catboost
+shap
