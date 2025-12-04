@@ -5,19 +5,6 @@ The work includes data cleaning, feature engineering, exploratory data analysis,
 
 The project is designed as a proof-of-concept for predictive monitoring based on execution logs only.
 
-RPA_PROJECT/
-│
-├── data/  
-│   └── (raw or processed datasets)
-│
-├── exp/
-│   ├── catboost_info/   # CatBoost internal training logs
-│   └── data_exp.ipynb   # Main Jupyter Notebook with full analysis & model
-│
-├── venv/                # Virtual environment (created locally)
-│
-├── README.txt           # Project overview and instructions
-└── requirements.txt     # Python package dependencies
 
 
 Main Notebook
